@@ -21,6 +21,7 @@ body {
   font-weight: 600;
 }
 
+.welcome-header__text {
   margin-bottom: 8%;
   width: 50%;
   opacity: 0.4;
